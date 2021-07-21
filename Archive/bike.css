@@ -1,0 +1,23 @@
+.banner{
+    background-color: #0451f7;
+    color: white;
+    padding: 80px;
+    text-align: left;
+    color: #212121;
+    position: relative;
+    width: 100%;
+    margin: auto;
+    min-height: 100vh;
+}
+
+.header{
+    color: white;
+}
+
+.approach{
+    width:100%;
+}
+
+.interviews{
+    width: 100%;
+}

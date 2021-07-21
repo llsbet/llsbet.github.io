@@ -1,0 +1,93 @@
+.pr-card{
+    border-radius: 4px;
+    padding: 8px;
+    box-shadow: 1px 2px 8px #bfc9e0;
+}
+
+.proto-card{
+background-color: #e7effd;
+
+border-radius: 4px;
+padding: 16px;
+}
+
+.prototype{
+color: white;
+border-color: #0037ac;
+background-color: #0037ac;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-right: 16px;
+padding-left: 16px;
+border-radius: 4px;
+}
+
+.prototype:hover{
+    background-color: #00319b;
+}
+
+
+.figma{
+    width:70%;
+}
+
+.view-pro{
+    margin-top: 24px;
+}
+
+.hr{
+    border-top: 1px solid #212121;
+    margin-top: 72px;
+    margin-bottom: 72px;
+
+}
+
+.solution{
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+
+.wcard{
+padding: 16px;
+border-radius: 6px;
+box-shadow: -1px 5px 10px rgba(140, 133, 165, 0.363);
+color: #212121;
+background-color: white;
+text-align: center;
+}
+
+.wtop{
+border-radius: 6px 6px 0px 0px;
+background-color: #363636;
+color: white;
+padding: 8px;
+text-align: center;
+}
+
+.proto{
+    color: white;
+    text-decoration: none;
+}
+
+.proto:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: underline;
+}
+
+.figma-tool{
+    width: 20%;
+}
+
+.miro-tool{
+    width: 30%;
+}
+
+.optimal-tool{
+    width: 54%;
+}
+
+.control{
+text-align: right;
+    }

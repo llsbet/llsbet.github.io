@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Figma-logo" transform="translate(5.283)">
+      <path id="path0_fill" d="M5.359,210.717a5.36,5.36,0,0,0,5.359-5.359V200H5.359a5.359,5.359,0,0,0,0,10.717Z" transform="translate(0 -178.566)" fill="#0acf83"/>
+      <path id="path1_fill" d="M0,105.359A5.36,5.36,0,0,1,5.359,100h5.359v10.717H5.359A5.36,5.36,0,0,1,0,105.359Z" transform="translate(0 -89.283)" fill="#a259ff"/>
+      <path id="path1_fill_1_" d="M0,5.359A5.36,5.36,0,0,1,5.359,0h5.359V10.717H5.359A5.36,5.36,0,0,1,0,5.359Z" fill="#f24e1e"/>
+      <path id="path2_fill" d="M100,0h5.359a5.359,5.359,0,1,1,0,10.717H100Z" transform="translate(-89.283)" fill="#ff7262"/>
+      <path id="path3_fill" d="M110.717,105.359A5.359,5.359,0,1,1,105.359,100,5.36,5.36,0,0,1,110.717,105.359Z" transform="translate(-89.283 -89.283)" fill="#1abcfe"/>
+    </g>
+  </g>
+</svg>
