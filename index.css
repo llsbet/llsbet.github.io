@@ -147,6 +147,10 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
       vertical-align:middle;
     }
 
+    .socials{
+      margin-top:24px;
+    }
+
     .header{
       padding: 40px;
     }
