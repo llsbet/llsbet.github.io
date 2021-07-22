@@ -53,6 +53,10 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
     width:100%;
 }
 
+.bannerimg{
+  width:100%;
+}
+
 .interviews{
     width: 100%;
 }
@@ -101,12 +105,11 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
   margin: auto;
 }
 
-.nav{
-  visibility: hidden;
-}
 
-.mobile-footer{
-  visibility: visible;
+
+
+.bannerimg{
+  visibility: hidden;
 }
 
 
@@ -189,13 +192,10 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
    margin: auto;
  }
  
- .nav{
-   visibility: hidden;
- }
+ .bannerimg{
+  visibility: hidden;
+}
  
- .mobile-footer{
-   visibility: visible;
- }
  
  
    }
