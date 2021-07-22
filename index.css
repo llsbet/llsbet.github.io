@@ -77,7 +77,9 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
 
 .link:hover{
   color: #212121;
-  background-color: #f7f9ff;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  background-color: #e4eafc;
   text-decoration: none;
   border-bottom: 2px solid #0037ac;
 }
