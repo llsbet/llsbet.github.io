@@ -142,7 +142,7 @@ color: rgb(36, 36, 36);
 
   .view:hover{
     background-color: #294AA9;
-
+transition: ease-in-out;
     color: white;
  }
   
