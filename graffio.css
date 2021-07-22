@@ -114,18 +114,13 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
   margin: auto;
 }
 
-.nav{
-  visibility: hidden;
-}
+
 
 .banner-pic{
   visibility: hidden;
 }
 
-.mobile-nav{
-  visibility: visible;
-  margin-top: none;
-}
+
 
 #menuToggle
 {
