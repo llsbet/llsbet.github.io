@@ -139,13 +139,12 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
    
    
     .top{
-      margin-top: 48px;
         padding: 8px;
         text-align: center;
 
     }
     .top{
-      margin-top: 48px;
+      
       height: 100vh;
       margin:auto;
       vertical-align:middle;
@@ -153,6 +152,7 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
 
    
     .header{
+      margin-top:48px;
       padding: 40px;
     }
     .connect{
