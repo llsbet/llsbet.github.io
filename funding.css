@@ -225,3 +225,8 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
    }
  
  
+
+
+  .controls{
+    text-align: center;
+  }

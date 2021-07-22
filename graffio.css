@@ -233,3 +233,8 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
     padding-left: 16px;
       cursor: pointer;
   }
+
+
+  .controls{
+    text-align: center;
+  }
