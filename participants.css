@@ -41,7 +41,7 @@ background-color: rgba(255, 255, 255, 0.9); /* Black w/opacity/see-through */
     position: relative;
     margin: auto;
     background-color:  #f7f9ff;
-    max-height: 50vh;
+    max-height: 80vh;
 }
 
 .header{

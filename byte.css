@@ -40,11 +40,11 @@
       position: relative;
       margin: auto;
       background-color:  #f7f9ff;
-      max-height: 50vh;
+      max-height: 60vh;
   }
   
   .banner-pic{
-    max-width: 50%;
+    max-width: 40%;
     float: right;
   }
   .header{
